@@ -1,0 +1,8 @@
+ofxOpenCv
+ofxXmlSettings
+ofxKinect
+ofxOsc
+ofxSimpleGuiToo
+ofxMSACore
+ofxMSAFluid
+ofxMSAInteractiveObject
